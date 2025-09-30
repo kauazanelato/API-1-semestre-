@@ -1,5 +1,4 @@
-<img width="920" height="49" alt="image" src="https://github.com/user-attachments/assets/3e23c515-040a-48a8-a297-d8bbb0930d9b" />
-# Aprendizado por Projeto Integrado (API) - Template
+# Aprendizado por Projeto Integrado (API)
 
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
