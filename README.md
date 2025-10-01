@@ -9,7 +9,7 @@ O Projeto Integrador oferece uma experiência prática da metodologia ágil SCRU
 
 
 # Projeto (API) 
-Este projeto dividido em 3 Sprints tem como finalidade utilizar dados de exportação e importação do período dos anos de 2023 à 2025 fornecidas pelo portal do Comexstat para a construção de uma plataforma interativa em Power Bi com foco no comparativo dos municípios e estados de São Paulo 
+Este Projeto Integrador visa desenvolver a construção de dashboards interativos em Power Bi para analise de operações de exportações e importações, sendo uma ferramenta de apoio para estudos e até tomadas de decisões uma demanda latente das empresas, serão implementados na plataforma filtros que possam ser aplicados para analisar dados de diferentes anos ou de organizações específicas, painéis informativos e gráficos comparativos capazes de facilitar o entendimento da situação do mercado atual e suas tendências.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -23,11 +23,12 @@ Este projeto dividido em 3 Sprints tem como finalidade utilizar dados de exporta
 
 
 # Objetivo do Projeto
-Este projeto dividido em 3 Sprints tem como finalidade utilizar dados de exportação e importação do período dos anos de 2023 à 2025 fornecidas pelo portal do Comexstat para a construção de uma plataforma interativa em Power Bi com foco no comparativo dos municípios e estados de São Paulo:
+Este projeto dividido em 3 Sprints tem como finalidade utilizar dados de exportação e importação do período dos anos de 2023 à 2025 fornecidas pelo portal do Comexstat para a construção de uma plataforma interativa em Power Bi com foco no comparativo dos municípios e estados de São Paulo, este processo envolve:
+
 * Tratamento dos arquivos utilizando Google Colab, Phyton e a Biblioteca Pandhas;
-* Organizar e estruturar dashborads informativos no Power Bi;
+* Capacidade de organizar e estruturar dashborads comparativos no Power Bi;
 * Desenvolver analises buscando aprofundar a compreensão dos dados;
-* Facilitar o entendimento do mercado exterior ;
+* Facilitar o entendimento de mercado e como ele se comporta;
 * Desenvolver habilidades técnicas.
 
 
@@ -39,6 +40,8 @@ Este projeto dividido em 3 Sprints tem como finalidade utilizar dados de exporta
 * Google Colab
 * Phyton
 * Biblioteca Pandhas
+* Excel
+* Canvas
 
 
 
