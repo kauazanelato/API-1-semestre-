@@ -1,18 +1,15 @@
 # Aprendizado por Projeto Integrador (API)
-O Projeto Integrador oferece uma experiência prática da metodologia ágil SCRUM, procurando desenvolver a capacidade dos integrantes de se organizar e trabalhar em grupo para o desenvolvimento de um projeto que se baseia
+O Projeto Integrador oferece uma experiência prática da metodologia ágil SCRUM tendo como finalidade desenvolver e avaliar a capacidade dos integrantes do grupo de se organizar, planejar e trabalhar em equipe para a resolução de problemas reais, procurando desenvolver a Proatividade, Autonomia e a Colaboração.
 
 # Índice 
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
 * [Backlog do produto](#Product-Backlog)
-* [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
 
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
+Este projeto dividido em 3 Sprints tem como finalidade utilizar dados de exportação e importação do período dos anos de 2023 à 2025 fornecidas pelo portal Comexstat para a construção de uma plataforma interativa em Power Bi com o
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -26,7 +23,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-O objetivo deste projeto é desenvolver uma plataforma em Power Bi para facilitar a analise de dados de exportação e importação de 2023 à 2025 na utilização da plataforma GitHub, visando:
+O objetivo deste projeto é desenvolver uma plataforma em Power Bi para facilitar a analise de dados de exportação e importação com foco nos estados e municipios de São Paulo do periodo de 2023 à 2025:
 * Centralizar os trabalhos e projetos;
 * Organizar e estruturar as informações;
 * Versionar e controlar as alterações;
@@ -40,7 +37,8 @@ O objetivo deste projeto é desenvolver uma plataforma em Power Bi para facilita
 * Power BI
 * WhatsApp 
 * Google Colab
-* Phyton & Biblioteca Pandhas
+* Phyton
+* Biblioteca Pandhas
 
 
 
