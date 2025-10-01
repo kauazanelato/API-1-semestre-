@@ -9,7 +9,7 @@ O Projeto Integrador oferece uma experiência prática da metodologia ágil SCRU
 
 
 # Projeto (API) 
-Este Projeto Integrador visa desenvolver a construção de dashboards interativos em Power Bi para analise de operações de exportações e importações, sendo uma ferramenta de apoio para estudos e até tomadas de decisões uma demanda latente das empresas, serão implementados na plataforma filtros que possam ser aplicados para analisar dados de diferentes anos ou de organizações específicas, painéis informativos e gráficos comparativos capazes de facilitar o entendimento da situação do mercado atual e suas tendências.
+Este Projeto Integrador visa desenvolver a construção de dashboards interativos em Power Bi para analise de operações de exportações e importações, sendo uma ferramenta de apoio tanto para estudos, até tomadas de decisões sendo uma demanda latente das empresas, serão implementados na plataforma filtros que possam ser aplicados para analisar dados de diferentes anos ou de organizações específicas, painéis informativos e gráficos comparativos capazes de facilitar o entendimento da situação do mercado e suas tendências.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
