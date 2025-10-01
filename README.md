@@ -9,7 +9,7 @@ O Projeto Integrador oferece uma experiência prática da metodologia ágil SCRU
 
 
 # Projeto (API) 
-Este projeto dividido em 3 Sprints tem como finalidade utilizar dados de exportação e importação do período dos anos de 2023 à 2025 fornecidas pelo portal Comexstat para a construção de uma plataforma interativa em Power Bi com o
+Este projeto dividido em 3 Sprints tem como finalidade utilizar dados de exportação e importação do período dos anos de 2023 à 2025 fornecidas pelo portal do Comexstat para a construção de uma plataforma interativa em Power Bi com foco no comparativo dos municípios e estados de São Paulo 
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -23,11 +23,11 @@ Este projeto dividido em 3 Sprints tem como finalidade utilizar dados de exporta
 
 
 # Objetivo do Projeto
-O objetivo deste projeto é desenvolver uma plataforma em Power Bi para facilitar a analise de dados de exportação e importação com foco nos estados e municipios de São Paulo do periodo de 2023 à 2025:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
+Este projeto dividido em 3 Sprints tem como finalidade utilizar dados de exportação e importação do período dos anos de 2023 à 2025 fornecidas pelo portal do Comexstat para a construção de uma plataforma interativa em Power Bi com foco no comparativo dos municípios e estados de São Paulo:
+* Tratamento dos arquivos utilizando Google Colab, Phyton e a Biblioteca Pandhas;
+* Organizar e estruturar dashborads informativos no Power Bi;
+* Desenvolver analises buscando aprofundar a compreensão dos dados;
+* Facilitar o entendimento do mercado exterior ;
 * Desenvolver habilidades técnicas.
 
 
